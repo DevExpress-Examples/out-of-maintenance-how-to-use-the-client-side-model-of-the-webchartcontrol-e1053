@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the client-side model of the WebChartControl
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1053)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the client-side model of the WebChartControl.</p>
